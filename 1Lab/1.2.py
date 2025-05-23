@@ -1,5 +1,5 @@
 # TODO Найдите количество книг, которое можно разместить на дискете
-v_disk = 1.44 * 1024 **2
+v_disk = 1.44 * 1024 ** 2
 lot_pages_in_book = 100
 line_on_page = 50
 symbols_on_line = 25
